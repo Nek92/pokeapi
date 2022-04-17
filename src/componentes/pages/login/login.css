@@ -1,0 +1,8 @@
+.login-button {
+    display: flex;
+    width: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 30px fantasy ;
+    text-align: center;
+}
